@@ -1,0 +1,9 @@
+*.pyc
+*.class
+*.o
+*.d
+metastore_db/
+*_tmp
+pig*.log
+.idea/
+ghostdriver.log
